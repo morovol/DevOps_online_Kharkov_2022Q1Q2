@@ -1,4 +1,4 @@
-DevOps_online_Kharkov_2022Q1Q2
+#DevOps_online_Kharkov_2022Q1Q2
 
    1. Repo created
    2. Directory structure for task1 created
