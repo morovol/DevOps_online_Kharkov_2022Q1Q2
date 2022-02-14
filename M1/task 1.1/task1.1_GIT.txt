@@ -1,0 +1,18 @@
+8549954 (HEAD -> main, origin/main, origin/develop, origin/HEAD, develop) HEAD@{0}: merge develop: Fast-forward
+e2a3e0b HEAD@{1}: checkout: moving from develop to main
+8549954 (HEAD -> main, origin/main, origin/develop, origin/HEAD, develop) HEAD@{2}: merge styles: Merge made by the 'ort' strategy.
+796835f HEAD@{3}: merge images: Merge made by the 'ort' strategy.
+0d1cfb2 HEAD@{4}: checkout: moving from styles to develop
+fbfdf2b (origin/styles, styles) HEAD@{5}: commit: modified: M1/task 1.1/index.html
+83f6b31 HEAD@{6}: commit: new file: M1/task 1.1/styles/style.css
+0d1cfb2 HEAD@{7}: checkout: moving from develop to styles
+0d1cfb2 HEAD@{8}: commit: deleted: M1/task 1.1/styles/style.css
+d1fcf84 HEAD@{9}: commit: new file: M1/task 1.1/styles/style.css
+1a73910 HEAD@{10}: checkout: moving from images to develop
+414659e (origin/images, images) HEAD@{11}: commit: modified: M1/task 1.1/index.html
+f07442c HEAD@{12}: commit: new file: M1/task 1.1/Images/cat 1.jpg
+1a73910 HEAD@{13}: checkout: moving from develop to images
+1a73910 HEAD@{14}: commit: new file: M1/task 1.1/index.html
+e2a3e0b HEAD@{15}: checkout: moving from main to develop
+e2a3e0b HEAD@{16}: commit: new file: M1/task 1.1/readme.txt
+0a37e67 HEAD@{17}: clone: from github.com:morovol/DevOps_online_Kharkov_2022Q1Q2.git
