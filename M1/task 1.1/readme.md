@@ -8,4 +8,4 @@
    6. Branches merged with conflict resolve
    7. Results of all action pushed to GitHub
 
-DevOps is the development automation, fast interaction between developers and system administrators, testers, technical support. 
+## DevOps is the development automation, fast interaction between developers and system administrators, testers, technical support. 
