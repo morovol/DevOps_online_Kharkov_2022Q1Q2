@@ -19,6 +19,7 @@
   ![](images/VM1.png)
 2) Making snapshots
   ![](images/VM2.png)
+3) Export and import VM from *.ova file
   ![](images/VM3.png)
   ![](images/VM4.png)
   ![](images/VM5.png)
