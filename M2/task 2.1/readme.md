@@ -16,4 +16,4 @@
 #                                                                PART 2. WORK WITH VIRTUALBOX
 
 1) Working with VM:
-  !(DevOps_online_Kharkov_2022Q1Q2/M2/task 2.1/images/VM1.png)
+  ![](DevOps_online_Kharkov_2022Q1Q2/M2/task 2.1/images/VM1.png)
