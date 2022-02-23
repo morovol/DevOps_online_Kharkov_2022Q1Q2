@@ -40,3 +40,7 @@ https://docs.google.com/spreadsheets/d/1NabNA-VBkpVm5Y9zjhdn1F91CojZMDDRcSv76FcS
   ![](images/VM14.png)
   #                                                                PART 3. WORK WITH VAGRANT
 
+  ![](images/vagrant1.png)
+  ![](images/vagrant2.png)
+  ![](images/vagrant3.png)
+  ![](images/vagrant4.png)
