@@ -17,7 +17,7 @@
 
 1) Working with VM(Installing VM, creating VM, cloning VM, creating group):
   ![](images/VM1.png)
-  ![](images/VM2.png)
+  ![Making snapshots](images/VM2.png)
   ![](images/VM3.png)
   ![](images/VM4.png)
   ![](images/VM5.png)
