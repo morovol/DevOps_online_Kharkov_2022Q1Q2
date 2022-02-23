@@ -14,3 +14,6 @@
    * Parallels Desktop - more usability for Mac;
    * VMware Workstation - the most expensive;
 #                                                                PART 2. WORK WITH VIRTUALBOX
+
+1) Working with VM:
+  .\images\VM1.png
