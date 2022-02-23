@@ -16,4 +16,4 @@
 #                                                                PART 2. WORK WITH VIRTUALBOX
 
 1) Working with VM:
-  .\images\VM1.png
+  !images\VM1.png
