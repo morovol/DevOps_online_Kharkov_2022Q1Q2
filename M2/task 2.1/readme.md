@@ -15,5 +15,19 @@
    * VMware Workstation - the most expensive;
 #                                                                PART 2. WORK WITH VIRTUALBOX
 
-1) Working with VM:
+1) Working with VM(Installing VM, creating VM, cloning VM, creating group):
   ![](images/VM1.png)
+  ![](images/VM2.png)
+  ![](images/VM3.png)
+  ![](images/VM4.png)
+  ![](images/VM5.png)
+  ![](images/VM6.png)
+  ![](images/VM7.png)
+  ![](images/VM8.png)
+  ![](images/VM9.png)
+  ![](images/VM10.png)
+  ![](images/VM11.png)
+  ![](images/VM12.png)
+  ![](images/VM13.png)
+  ![](images/VM14.png)
+
