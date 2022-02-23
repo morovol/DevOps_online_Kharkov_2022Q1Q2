@@ -22,7 +22,9 @@
 3) Export and import VM from *.ova file
   ![](images/VM3.png)
   ![](images/VM4.png)
+4) Сonnecting to the USB ports
   ![](images/VM5.png)
+5) Configuring a shared folder to exchange data  
   ![](images/VM6.png)
   ![](images/VM7.png)
   ![](images/VM8.png)
