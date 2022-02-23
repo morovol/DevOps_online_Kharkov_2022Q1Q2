@@ -27,6 +27,7 @@
 5) Configuring a shared folder to exchange data  
   ![](images/VM6.png)
   ![](images/VM7.png)
+  https://docs.google.com/spreadsheets/d/1NabNA-VBkpVm5Y9zjhdn1F91CojZMDDRcSv76FcSblY/edit#gid=0
 6) Working with CLI through VBoxManage.  
   ![](images/VM8.png)
   ![](images/VM9.png)
