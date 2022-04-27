@@ -1,5 +1,7 @@
 
-##                                                                TASK 2.2
+#                                                                TASK 2.2
+
+###
 
 1) Working with VM(Installing VM, creating VM, cloning VM, creating group):
   ![](images/VM1.png)
