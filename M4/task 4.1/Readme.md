@@ -81,7 +81,7 @@ s - socket
 ![](Images/4.1.13p2.png)
 ### 14) How to determine the type of file in the system, what types of files are there?
 To determine the type of file is used the command: ls -l
- - - : regular file
+ - "-" : regular file
  - d : directory
  - c : character device file
  - b : block device file
