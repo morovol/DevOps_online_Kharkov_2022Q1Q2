@@ -12,11 +12,11 @@ group_name:password:group_id:list
 
 These two files contain information about both real and pseudo-users. The most common pseudo-users:
 
-    daemon (used by system service processes)
-    bin (gives ownership of executables command)
-    adm (owns registration files)
-    nobody (used by many services)
-    sshd (used by the secure shell server)
+  - daemon (used by system service processes)
+  - bin (gives ownership of executables command)
+  - adm (owns registration files)
+  - nobody (used by many services)
+  - sshd (used by the secure shell server)
 
 Pseudo-users have UID range from 1 to 999. Also, we can identify pseudo-users by looking at the last field of the line. It typically contains “/usr/sbin/nologin” or “/bin/false”. When real users often have access to a shell (”/bin/bash”).
 
