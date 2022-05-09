@@ -85,5 +85,23 @@ Some of the most common signals:
  - nohup allows jobs to continue after logout. We can stop nohup process using kill
 ![](Images/4.3.17_1.png)
 ![](Images/4.3.17_2.png)
+# Part2
+### 1. Check the implementability of the most frequently used OPENSSH commands in the MS Windows operating system. (Description of the expected result of the commands +screenshots: command – result should be presented)
+![](Images/4.3.1p2.png)
+### 2. Implement basic SSH settings to increase the security of the client-server connection (at least)
+![](Images/4.3.2p2.png)
+![](Images/4.3.2_2p2.png)
+### 3. List the options for choosing keys for encryption in SSH. Implement 3 of them.
+We can select the algorithm using the -t option and key size using the -b option. For example:
 
-
+   - ssh-keygen -t rsa -b 4096
+   - ssh-keygen -t dsa
+   - ssh-keygen -t ecdsa -b 521
+   - ssh-keygen -t ed25519
+### 4. Implement port forwarding for the SSH client from the host machine to the guest Linux virtual machine behind NAT.
+![](Images/4.3.4p2.png)
+### 5*. Intercept (capture) traffic (tcpdump, wireshark) while authorizing the remote client on the server using ssh, telnet, rlogin. Analyze the result.
+![](Images/4.3.5_1p2.png)
+![](Images/4.3.5_2p2.png)
+![](Images/4.3.5_3p2.png)
+ssh it is similar in functionality to the Telnet and rlogin protocols, but, unlike them, encrypts all traffic, including transmitted passwords
