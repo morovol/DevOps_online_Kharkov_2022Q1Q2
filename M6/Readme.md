@@ -6,4 +6,4 @@
 ### The code that performs the functionality of each of the subtasks must be placed in a separate function
 ![](Images/6.1.png)
 ![](Images/6.2.png)
-
+![](Images/6.3.png)
