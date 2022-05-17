@@ -7,3 +7,6 @@
 ![](Images/6.1.png)
 ![](Images/6.2.png)
 ![](Images/6.3.png)
+## B. Using Apache log example create a script to answer the following questions:
+### 1. From which ip were the most requests?
+![](Images/6.4.png)
