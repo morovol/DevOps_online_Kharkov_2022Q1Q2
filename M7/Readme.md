@@ -3,4 +3,7 @@
 ### 1. Download MySQL server for your OS on VM. 
 ### 2. Install MySQL server on VM. 
 ### 3. Select a subject area and describe the database schema, (minimum 3 tables)
-![](Images/6.1.png)
+![](Images/7.1.png)
+### 4. Create a database on the server through the console. 
+### 5. Fill in tables.
+![](Images/7.2.png)
