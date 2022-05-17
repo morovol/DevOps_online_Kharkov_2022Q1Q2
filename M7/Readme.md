@@ -7,3 +7,7 @@
 ### 4. Create a database on the server through the console. 
 ### 5. Fill in tables.
 ![](Images/7.2.png)
+![](Images/7.3.png)
+![](Images/7.4.png)
+![](Images/7.5.png)
+![](Images/7.6.png)
