@@ -24,3 +24,5 @@
 ### In case of adding new or deleting old files, the script must add a corresponding entry to the log file indicating the time, type of operation and file name. [The command to run the script must be added to crontab with a run frequency of one minute]
 ![](Images/6.8.png)
 ![](Images/6.9.png)
+![](Images/6.10.png)
+![](Images/6.11.png)
