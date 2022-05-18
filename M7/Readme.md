@@ -22,3 +22,6 @@
 ![](Images/7.12.png)
 ### 9. Make a selection from the main table DB MySQL.
 ![](Images/7.13.png)
+## PART 2
+### 10.Make backup of your database.
+![](Images/7.14.png)
