@@ -42,3 +42,12 @@
 ![](Images/7.23.png)
 ## PART 3 – MongoDB
 ### 17. Create a database. Use the use command to connect to a new database (If it doesn't exist, Mongo will create it when you write to it).
+![](Images/7.24.png)
+![](Images/7.25.png)
+### 18. Create a collection. Use db.createCollection to create a collection. I'll leave the subject up to you. Run show dbs and show collections to view your database and collections.
+![](Images/7.26.png)
+### 19. Create some documents. Insert a couple of documents into your collection. I'll leave the subject matter up to you, perhaps cars or hats.
+### 20. Use find() to list documents out.
+![](Images/7.27.png)
+
+
