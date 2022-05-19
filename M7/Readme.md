@@ -25,3 +25,20 @@
 ## PART 2
 ### 10.Make backup of your database.
 ![](Images/7.14.png)
+### 11.Delete the table and/or part of the data in the table.
+![](Images/7.15.png)
+### 12.Restore your database.
+![](Images/7.16.png)
+![](Images/7.17.png)
+### 13.Transfer your local database to RDS AWS.
+![](Images/7.18.png)
+![](Images/7.19.png)
+### 14.Connect to your database. 
+### 15.Execute SELECT operator similar step 6.
+![](Images/7.20.png)
+![](Images/7.21.png)
+![](Images/7.22.png)
+### 16.Create the dump of your database.
+![](Images/7.23.png)
+## PART 3 – MongoDB
+### 17. Create a database. Use the use command to connect to a new database (If it doesn't exist, Mongo will create it when you write to it).
